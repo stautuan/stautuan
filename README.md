@@ -1,7 +1,7 @@
 ### 👋 Hi there, I’m Stacy!
 
-- 🌱 I’m currently learning React while improving my JavaScript skills.
-- 💞️ I enjoy building websites and apps with a focus on usability and accessibility.
+- 🌱 I’m currently learning Python and Django.
+- 💞 I enjoy building projects with data.
 - ⚔️ Beyond coding, you will find me lost in pages of a good fantasy book.
 
 <!---
