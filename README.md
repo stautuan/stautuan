@@ -1,7 +1,7 @@
 ### 👋 Hi there, I’m Stacy!
 
-- 🌱 I’m currently learning Python and Django.
 - 💞 I enjoy building projects with data.
+- 🌱 I’m currently learning Python and Django.
 - ⚔️ Beyond coding, you will find me lost in pages of a good fantasy book.
 
 <!---
